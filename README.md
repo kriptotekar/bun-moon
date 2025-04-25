@@ -25,8 +25,11 @@ This script simulates the final descent phase of a lunar landing. You control th
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-directory>
+    gh repo clone kriptotekar/bun-moon
+    cd bun-moon
+    or
+    git repo clone kriptotekar/bun-moon
+    cd bun-moon
     ```
 2.  **Make the script executable (optional but recommended):**
     ```bash
